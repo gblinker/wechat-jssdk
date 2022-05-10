@@ -1,5 +1,5 @@
 {
-  "name": "@next/wechat-jssdk",
+  "name": "@gblinker/wechat-jssdk",
   "version": "5.0.9",
   "description": "Next-Generation WeChat JS-SDK integration with NodeJS and Axios",
   "main": "./lib/index.js",
